@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: #007acc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.subtitle {
+    font-style: italic;
+}
+
+/* Card style demonstrating box model */
+.card {
+    background-color: white;
+    margin: 20px;          /* Outside spacing */
+    padding: 15px;         /* Inside spacing */
+    border: 2px solid #ddd;/* Border */
+    border-radius: 8px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
